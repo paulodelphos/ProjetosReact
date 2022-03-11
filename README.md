@@ -19,9 +19,9 @@ Repositório criado para projetos em React
 ## :bookmark_tabs: Listas de projetos
 
 - [x] **Projeto 1 -> todo** - lista de tarefas em React (https://github.com/paulodelphos/ProjetosReact/tree/main/todo)
-- [ ] **Projeto 2** - Sistema de Finanças Pessoais em React
+- [x] **Projeto 2** - Sistema de Finanças Pessoais em React https://github.com/paulodelphos/ProjetosReact/tree/main/gestao-despesas
 - [ ] **Projeto 3** - Galeria de Fotos em React
-- [ ] **Projeto 4** - Jogo RPG em React
+- [x] **Projeto 4** - Jogo RPG em React https://github.com/paulodelphos/ProjetosReact/tree/main/RPGReact
 - [ ] **Projeto 5** - Formulário multi-etapas em React
 - [ ] **Projeto 6** - Clone NetFlix em React
 - [ ] **Projeto 7**- Urna Eletrônica em React
