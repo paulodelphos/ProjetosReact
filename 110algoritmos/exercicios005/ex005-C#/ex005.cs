@@ -7,8 +7,8 @@ class Program {
         Console.Write("Digite um valor: ");
         n1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Você digitou " + n1);
-        Console.WriteLine($"Você digitou: {n1}");
+        Console.WriteLine("O sucessor de " + n1 + " é " + (n1 + 1) + " e o antecessor é " + (n1 - 1) + ".");
+        
 
     }
 }
